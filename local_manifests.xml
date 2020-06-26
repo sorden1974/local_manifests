@@ -7,6 +7,9 @@
     <!-- Samsung Hardware Repo -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-17.1"/>
 
+    <!-- Sony TimeKeep -->
+    <project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="github" revision="lineage-17.1"/>
+
     <!-- Dependencies -->
     <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" remote="github" revision="lineage-17.1"/>
 
